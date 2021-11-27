@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imFS. I have ADHD and sometimes I can be weird. 
+- 👋 Hi, I’m @imFS. I have ADHD, I can be weird sometimes. 
 - 👀 I’m interested in reverse engineering, C++, ASM, JS and research.
 - 🌱 I’m currently learning JS and Mathematics
 - 💞️ I’m looking to collaborate on anything.
