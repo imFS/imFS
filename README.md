@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @imFS. I have ADHD, I can be weird sometimes.
-- 🍉 This is my 'random' github account, I post random things on here.
+- 🍉 This is my 'random' github account, I post random things on here. 
+- 🍏 TL;DR You will see a lot of shit code here, enjoy.
 - 👀 I’m interested in reverse engineering, C++, ASM, JS and research.
 - 🌱 I’m currently learning JS and Mathematics
 - 💞️ I’m looking to collaborate on anything.
