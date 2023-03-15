@@ -3,7 +3,7 @@
 - 👀 I’m interested in reverse engineering, C++, ASM, JS and research.
 - 🌱 I’m currently learning JS and Mathematics
 - 🍏 TL;DR You will see a lot of shit code here, enjoy.
-- 💞️ I’m looking to collaborate on: anything.
+- 💞️ I’m looking to collaborate on: anything, mainly job offers or dual-studium.
 - 📫 How to reach me: deniz.sonsal@gmail.com
 
 <!---
