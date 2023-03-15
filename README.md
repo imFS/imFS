@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning JS and Mathematics
 - 🍏 TL;DR You will see a lot of shit code here, enjoy.
 - 💞️ I’m looking to collaborate on: anything.
-- 📫 How to reach me: bored.shu@gmail.com
+- 📫 How to reach me: deniz.sonsal@gmail.com
 
 <!---
 imFS/imFS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
